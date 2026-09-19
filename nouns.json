@@ -1,0 +1,112 @@
+
+
+{
+  "title": "Q3eSE_RW0_U06_QClassroom",
+  "sentences": [
+    {
+      "speaker": "",
+      "keyWord": "food",
+      "definition": "",
+      "english": "I like healthy food.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I like healthy food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "fat",
+      "definition": "",
+      "english": " Not too much fat.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Not too much fat.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "",
+      "keyWord": "pizza, cafeteria",
+      "definition": "",
+      "english": "I’m busy, and sometimes I just eat something because it’s fast and easy, like pizza from the cafeteria.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I’m busy, and sometimes I just eat something because it’s fast and easy, like pizza from the cafeteria.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "sugar , salt",
+      "definition": "",
+      "english": "Fresh food is very important to me. I eat a lot of vegetables, and I don’t like food with lots of sugar or salt.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Fresh food is very important to me I eat a lot of vegetables, and I don’t like food with lots of sugar or salt.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "",
+      "keyWord": "meat , things",
+      "definition": "",
+      "english": "Well, I don’t eat very much meat But I eat most other things.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Well, I don’t eat very much meat But I eat most other things.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+      
+        {
+      "speaker": "",
+      "keyWord": "sweets",
+      "definition": "",
+      "english": " I love spicy food and sweets.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I love spicy food and sweets.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "nutrition , convenience , taste",
+      "definition": "",
+      "english": "You have mentioned nutrition, convenience, and taste",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/You have mentioned nutrition, convenience, and taste.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "",
+      "keyWord": "reasons",
+      "definition": "",
+      "english": "These are all good reasons for choosing food",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/These are all good reasons for choosing food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+  ]
+}

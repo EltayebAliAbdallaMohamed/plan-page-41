@@ -1,0 +1,59 @@
+
+
+{
+  "title": "Q3eSE_RW0_U06_QClassroom",
+  "sentences": [
+    {
+      "speaker": "Yuna:",
+      "keyWord": "nutrition",
+      "definition": "",
+      "english": "nutrition",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Yuna_reason_for_choosing_food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Felix",
+      "keyWord": "convenience",
+      "definition": "",
+      "english": "convenience",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Felix_reason_for_choosing_food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "Sophy:",
+      "keyWord": "nutrition",
+      "definition": "",
+      "english": "nutrition",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Sophy_reason_for_choosing_food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "Marcus:",
+      "keyWord": "taste",
+      "definition": "",
+      "english": "taste",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Marcus_reason_for_choosing_food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+]
+}

@@ -1,0 +1,98 @@
+
+
+{
+  "title": "Q3eSE_RW0_U06_QClassroom",
+  "sentences": [
+       {
+      "speaker": "",
+      "keyWord": "important",
+      "definition": "",
+      "english": "What is important to you when you choose your food, Yuna?",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/What is important to you when you choose your food, Yuna.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "healthy",
+      "definition": "",
+      "english": "I like healthy food.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I like healthy food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "busy",
+      "definition": "",
+      "english": "I’m busy",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I’m busy.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "",
+      "keyWord": "fast , easy ",
+      "definition": "",
+      "english": "I just eat something because it’s fast and easy",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I just eat something because it’s fast and easy.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "convenient",
+      "definition": "",
+      "english": "Hmm, so you sometimes choose food because it’s convenient",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Hmm, so you sometimes choose food because it’s convenient.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },  
+        {
+      "speaker": "",
+      "keyWord": "fresh",
+      "definition": "",
+      "english": "Fresh food is very important to me.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Fresh food is very important to me.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+     {
+      "speaker": "",
+      "keyWord": "spicy",
+      "definition": "",
+      "english": "I love spicy food and sweets.",
+      "arabic": "",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/I love spicy food and sweets.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+      ]
+}
